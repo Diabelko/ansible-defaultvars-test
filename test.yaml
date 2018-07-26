@@ -1,0 +1,6 @@
+---
+- hosts: localhost
+  roles:
+    - test-A
+    - test-B
+    - test-C
